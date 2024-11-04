@@ -23,6 +23,7 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 ```
 ai-templates/
 ├── README.md                    # Hlavní popis projektu
+├── LICENSE.md                   # MIT Licence
 │
 ├── education/                   # Vzdělávací šablony
 │   ├── learning-template.md     # Šablona pro studium
