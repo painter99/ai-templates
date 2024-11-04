@@ -132,8 +132,6 @@ Všechny šablony v tomto repozitáři byly vytvořeny ve spolupráci s AI asist
 - Revize a finalizace: Autor repozitáře
 - Iterativní vylepšování: Spolupráce autora a AI
 
-Transparentnost ohledně použití AI nástrojů v tvůrčím procesu je důležitá.
-
 ## 📜 Licence
 
 Tento projekt je licencován pod [MIT License](https://github.com/painter99/ai-templates/blob/main/LICENSE.md).
