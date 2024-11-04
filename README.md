@@ -22,26 +22,26 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 
 ```
 ai-templates/
-├── README.md                    # Hlavní popis projektu
-├── LICENSE.md                   # MIT Licence
+├── README.md                             # Hlavní popis projektu
+├── LICENSE.md                            # MIT Licence
 │
-├── education/                   # Vzdělávací šablony
-│   ├── learning-template.md     # Šablona pro studium
-│   └── teaching-template.md     # Šablona pro výuku
+├── education/                            # Vzdělávací šablony
+│   ├── learning-template-complete.md     # Šablona pro studium
+│   └── teaching-template-complete.md     # Šablona pro výuku
 │
-├── professional/                # Profesní šablony
-│   ├── career-development.md    # Kariérní rozvoj
-│   ├── skill-acquisition.md     # Získávání dovedností
-│   ├── programming.md           # Programování
-│   ├── qa-testing.md            # QA a testování
-│   └── hr-recruitment.md        # HR a nábor
+├── professional/                         # Profesní šablony
+│   ├── career-development-complete.md    # Kariérní rozvoj
+│   ├── skill-acquisition-complete.md     # Získávání dovedností
+│   ├── programming-complete.md           # Programování
+│   ├── qa-testing-complete.md            # QA a testování
+│   └── hr-recruitment-complete.md        # HR a nábor
 │
-├── content/                     # Obsahové šablony
-│   └── copywriting.md           # Copywriting
+├── content/                              # Obsahové šablony
+│   └── copywriting-complete.md           # Copywriting
 │
-└── personal/                    # Osobní rozvoj
-    ├── self-improvement.md      # Osobní rozvoj
-    └── productivity.md          # Produktivita
+└── personal/                             # Osobní rozvoj
+    ├── self-improvement-complete.md      # Osobní rozvoj
+    └── productivity-complete.md          # Produktivita
 ```
 
 ## ⚡ Rychlý start
