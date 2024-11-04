@@ -122,6 +122,18 @@ Každá šablona obsahuje:
 - Navrhujte vylepšení
 - Zapojte se do diskuze
 
+## Credits & Attribution 🤖
+
+Všechny šablony v tomto repozitáři byly vytvořeny ve spolupráci s AI asistentem Claude 3.5 Sonnet. 
+
+### Proces tvorby:
+- Definice struktury a požadavků: Autor repozitáře
+- Generování a strukturování obsahu: Claude 3.5 Sonnet
+- Revize a finalizace: Autor repozitáře
+- Iterativní vylepšování: Spolupráce autora a AI
+
+Transparentnost ohledně použití AI nástrojů v tvůrčím procesu je důležitá.
+
 ## 📜 Licence
 
 Tento projekt je licencován pod [MIT License](https://github.com/painter99/ai-templates/blob/main/LICENSE.md).
