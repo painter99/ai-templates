@@ -122,7 +122,7 @@ Každá šablona obsahuje:
 - Navrhujte vylepšení
 - Zapojte se do diskuze
 
-## Credits & Attribution 🤖
+## 🤖 Credits & Attribution
 
 Všechny šablony v tomto repozitáři byly vytvořeny ve spolupráci s AI asistentem Claude 3.5 Sonnet. 
 
