@@ -10,7 +10,7 @@ AI šablony jsou strukturované návody pro efektivní komunikaci s AI asistenty
 2. Otevřete konverzaci s AI asistentem
 3. Zkopírujte relevantní části šablony (V nejideálnějším případě celou)
 4. Upravte je podle vašich potřeb
-5. Vložte do konverzace s AI
+5. Vložte do konverzace s AI - doporučuji šablonu přiložit jako soubor
 
 ## Detailní postup použití 📝
 
