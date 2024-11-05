@@ -31,27 +31,34 @@ Detailní návod k použití šablon najdete v souboru [HOW_TO_USE.md](https://g
 
 ```
 ai-templates/
-├── README.md                             # Hlavní popis projektu
-├── LICENSE.md                            # MIT Licence
-├── HOW_TO_USE.md                         # Návod k použití šablon
+├── README.md                                 # Hlavní popis projektu
+├── LICENSE.md                                # MIT Licence
+├── HOW_TO_USE.md                             # Návod k použití šablon
 │
-├── education/                            # Vzdělávací šablony
-│   ├── learning-template-complete.md     # Šablona pro studium
-│   └── teaching-template-complete.md     # Šablona pro výuku
+├── education/                                # Vzdělávací šablony
+│   ├── learning-template-complete.md         # Šablona pro studium
+│   └── teaching-template-complete.md         # Šablona pro výuku
 │
-├── professional/                         # Profesní šablony
-│   ├── career-development-complete.md    # Kariérní rozvoj
-│   ├── skill-acquisition-complete.md     # Získávání dovedností
-│   ├── programming-complete.md           # Programování
-│   ├── qa-testing-complete.md            # QA a testování
-│   └── hr-recruitment-complete.md        # HR a nábor
+├── example/                                  # Příklad použití šablony
+│   └── example-teaching-template-complete.md # AI mentor 
 │
-├── content/                              # Obsahové šablony
-│   └── copywriting-complete.md           # Copywriting
+├── comparision/                              # Porovnání výstupu
+│   ├── with-template.md                      # Výstup s použitím šablony
+│   └── without-template.md                   # Výstup bez použití šablony
 │
-└── personal/                             # Osobní rozvoj
-    ├── self-improvement-complete.md      # Osobní rozvoj
-    └── productivity-complete.md          # Produktivita
+├── professional/                             # Profesní šablony
+│   ├── career-development-complete.md        # Kariérní rozvoj
+│   ├── skill-acquisition-complete.md         # Získávání dovedností
+│   ├── programming-complete.md               # Programování
+│   ├── qa-testing-complete.md                # QA a testování
+│   └── hr-recruitment-complete.md            # HR a nábor
+│
+├── content/                                  # Obsahové šablony
+│   └── copywriting-complete.md               # Copywriting
+│
+└── personal/                                 # Osobní rozvoj
+    ├── self-improvement-complete.md          # Osobní rozvoj
+    └── productivity-complete.md              # Produktivita
 ```
 
 ## ⚡ Rychlý start
