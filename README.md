@@ -27,13 +27,13 @@ Detailní návod k použití šablon najdete v souboru [HOW_TO_USE.md](https://g
 2. Upravte ji podle vašich potřeb
 3. Použijte v komunikaci s AI asistentem
 
-Pro příklady použití se podívejte do složky `examples/`.
 ## 📂 Struktura repozitáře
 
 ```
 ai-templates/
 ├── README.md                             # Hlavní popis projektu
 ├── LICENSE.md                            # MIT Licence
+├── HOW_TO_USE.md                         # Návod na použití šablon
 │
 ├── education/                            # Vzdělávací šablony
 │   ├── learning-template-complete.md     # Šablona pro studium
