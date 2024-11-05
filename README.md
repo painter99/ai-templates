@@ -57,10 +57,9 @@ ai-templates/
 ## ⚡ Rychlý start
 
 1. Vyberte si vhodnou šablonu podle vašeho záměru
-2. Přečtěte si dokumentaci k šabloně
-3. Upravte si šablonu podle vašich potřeb
-4. Dodržujte uvedené best practices
-5. Sdílejte své zkušenosti a návrhy na vylepšení
+2. Upravte si šablonu podle vašich potřeb
+3. Dodržujte uvedené best practices
+4. Sdílejte své zkušenosti a návrhy na vylepšení
 
 ## 🔒 Bezpečnost a etika
 
