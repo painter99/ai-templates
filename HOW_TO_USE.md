@@ -61,25 +61,71 @@ AI šablony jsou strukturované návody pro efektivní komunikaci s AI asistenty
 
 ## Tipy pro efektivní použití 🎯
 
-1. **Není 100% nutností použít celou šablonu najednou**
-   - Vybírejte relevantní části
-   - Upravujte podle potřeby
-   - Při použití části šablony může komunikace s AI ztrácet na kvalitě výstupu
+### ⚠️ Důležité upozornění k používání šablon
+- Pro nejlepší výsledky používejte šablonu jako celek
+- Vynechání částí může vést ke snížení kvality AI odpovědí
+- Šablony jsou navrženy jako komplexní systém
 
-2. **Buďte specifičtí**
-   - Doplňte konkrétní detaily
-   - Upravte příklady
-   - Přidejte vlastní požadavky
+### Pokud přesto potřebujete použít jen část šablony:
+1. **Vždy zachovejte**:
+   - Profil/kontext
+   - Instrukce pro AI asistenta
+   - Strukturu odpovědí
 
-3. **Využívejte strukturu odpovědí**
-   - Požadujte formát ze šablony
-   - Dodržujte navržené kroky
-   - Ověřujte kvalitu podle kritérií
+2. **Mějte na paměti**:
+   - Částečné použití = potenciálně nižší kvalita výstupů
+   - AI potřebuje kontext pro nejlepší výsledky
+   - Komplexní zadání generuje komplexnější odpovědi
 
-4. **Iterativně vylepšujte**
+### 💡 Klíčové principy pro optimální výsledky:
+
+1. **Hloubková analýza před tvorbou**:
+   - Důkladně analyzujte požadavky
+   - Definujte přesné cíle
+   - Připravte si potřebné podklady
+   - Identifikujte klíčové metriky úspěchu
+
+2. **Iterativní přístup**:
    - Začněte základní verzí
-   - Postupně přidávejte detaily
-   - Upravujte podle výsledků
+   - Vyhodnoťte výstup
+   - Upravte zadání podle potřeby
+   - Postupně vylepšujte výsledky
+   - Dokumentujte úspěšné postupy
+
+3. **Komparativní analýza**:
+   - Porovnávejte různé verze výstupů
+   - Experimentujte s různými přístupy
+   - Identifikujte nejefektivnější části
+   - Optimalizujte na základě výsledků
+
+4. **Strukturovaný feedback**:
+   - Pravidelně hodnoťte kvalitu výstupů
+   - Zaznamenávejte si úspěšné prompt patterns
+   - Sledujte, které části šablony mají největší vliv
+   - Adaptujte proces podle získaných poznatků
+
+### 🎯 Pro maximální efektivitu:
+- Použijte celou strukturu šablony
+- Upravujte obsah, ne strukturu
+- Přizpůsobte detaily, zachovejte framework
+- Dokumentujte si své best practices
+- Pravidelně revidujte a optimalizujte proces
+- Sdílejte své zkušenosti s komunitou
+
+### 🔄 Proces kontinuálního zlepšování:
+1. Analyzujte požadavky
+2. Implementujte šablonu
+3. Vyhodnoťte výsledky
+4. Identifikujte prostor pro zlepšení
+5. Upravte přístup
+6. Opakujte proces
+
+### ⚡ Power Tips:
+- Vytvořte si vlastní knihovnu úspěšných promptů
+- Kombinujte znalosti z různých šablon
+- Budujte si systém pro hodnocení výstupů
+- Experimentujte s různými AI modely
+- Udržujte si přehled o nejnovějších best practices
 
 ## Řešení častých problémů 🔧
 
