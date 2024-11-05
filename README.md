@@ -10,6 +10,12 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 - Respektovaly etické principy
 - Podporovaly bezpečné používání AI
 
+## 🎯 Ukázky a porovnání
+- [**Praktický příklad použití**](https://github.com/painter99/ai-templates/blob/main/example/example-teaching-template-complete.md) - Kompletní ukázka implementace AI mentora
+- [**Porovnání výstupů**](https://github.com/painter99/ai-templates/tree/main/comparision) - Demonstrace rozdílu mezi použitím a nepoužitím šablony:
+  - [S použitím šablony](https://github.com/painter99/ai-templates/blob/main/comparision/with-template.md)
+  - [Bez použití šablony](https://github.com/painter99/ai-templates/blob/main/comparision/without-template.md)
+
 ## 🎯 Pro koho jsou šablony určené
 
 - Samostudenty a vzdělávací instituce
