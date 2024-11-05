@@ -18,6 +18,16 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 - Kreativní pracovníky
 - Každého, kdo chce efektivně komunikovat s AI
 
+## 📘 Jak používat šablony
+
+Detailní návod k použití šablon najdete v souboru [HOW_TO_USE.md](https://github.com/painter99/ai-templates/blob/main/HOW_TO_USE.md).
+
+### Rychlý start:
+1. Vyberte vhodnou šablonu
+2. Upravte ji podle vašich potřeb
+3. Použijte v komunikaci s AI asistentem
+
+Pro příklady použití se podívejte do složky `examples/`.
 ## 📂 Struktura repozitáře
 
 ```
