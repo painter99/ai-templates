@@ -57,6 +57,7 @@ ai-templates/
 ├── README.md                                 # Hlavní popis projektu
 ├── LICENSE.md                                # MIT Licence
 ├── HOW_TO_USE.md                             # Návod k použití šablon
+├── AI_MENTOR_GUIDE.md                        # Návod na editaci šablon
 │
 ├── education/                                # Vzdělávací šablony
 │   ├── learning-template-complete.md         # Šablona pro studium
