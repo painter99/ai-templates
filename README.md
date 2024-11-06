@@ -108,7 +108,7 @@ ai-templates/
 
 ### Bezpečnostní doporučení
 - Nesdílejte citlivé osobní údaje
-- Neukládejte přístupové údaje a hesla
+- Nevkládejte přístupové údaje a hesla
 - Ověřujte si výstupy AI
 - Buďte obezřetní při generování kódu
 
@@ -166,7 +166,7 @@ Každá šablona obsahuje:
 
 Všechny šablony v tomto repozitáři byly vytvořeny ve spolupráci s AI asistentem Claude 3.5 Sonnet. 
 
-### Proces tvorby:
+### Proces tvorby šablon:
 - Definice struktury a požadavků: Autor repozitáře
 - Generování a strukturování obsahu: Claude 3.5 Sonnet
 - Revize a finalizace: Autor repozitáře
