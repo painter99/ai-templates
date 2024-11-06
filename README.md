@@ -11,6 +11,17 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 - Podporovaly bezpečné používání AI
 
 ## 📋 Ukázky a porovnání
+
+### Postup vytvoření ukázky:
+1. Využil jsem model Claude 3.5 Sonnet od Anthropic
+2. V rozhraní jsem vytvořil nový "Projekt" a do něj jsem přímo nahrál upravenou šablonu (ne do zprávy)
+3. V instrukcích jsem asistentovi definoval:
+   - Že bude reagovat v roli mentora podle nahrané šablony
+   - Že se bude striktně držet struktury a principů ze šablony
+   - Že podle šablony bude také formulovat své odpovědi
+
+### Výsledky:
+
 - [**Praktický příklad použití**](https://github.com/painter99/ai-templates/blob/main/example/example-teaching-template-complete.md) - Kompletní ukázka implementace AI mentora
 - **Porovnání výstupů** - Demonstrace rozdílu mezi použitím a nepoužitím šablony:
   - [S použitím šablony](https://github.com/painter99/ai-templates/blob/main/comparision/with-template.md)
