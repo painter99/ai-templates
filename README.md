@@ -39,6 +39,12 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 
 Detailní návod k použití šablon najdete v souboru [HOW_TO_USE.md](https://github.com/painter99/ai-templates/blob/main/HOW_TO_USE.md).
 
+### 🔄 Editace šablon s AI mentorem
+Pro editaci existujících šablon pomocí AI mentora jsme připravili [podrobný návod](https://github.com/painter99/ai-templates/blob/main/AI_MENTOR_GUIDE.md). Tento postup vám umožní:
+- Systematicky upravovat šablony podle vašich potřeb
+- Využít potenciál AI mentora pro kvalitní výsledky
+- Zachovat konzistenci a strukturu šablon
+
 ### Rychlý start:
 1. Vyberte vhodnou šablonu
 2. Upravte ji podle vašich potřeb
