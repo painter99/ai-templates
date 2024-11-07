@@ -1,15 +1,6 @@
 # Jak používat AI šablony 📘
 
-## Základní koncept
-
-AI šablony jsou strukturované návody pro efektivní komunikaci s AI asistenty. Fungují jako "recept" pro získání co nejlepších výsledků.
-
-## Co budete potřebovat
-- Přístup k ChatGPT nebo Claude
-- Naše šablony z GitHubu
-- Základní představu, co chcete vytvořit
-
-## Přehled šablon 📑
+## Přehled šablon a míra personalizace 📑
 
 ### 📚 Education
 1. **Learning Template** - Vyžaduje 90% personalizace
@@ -51,69 +42,95 @@ AI šablony jsou strukturované návody pro efektivní komunikaci s AI asistenty
 12. **Productivity** - Vyžaduje 25% personalizace
     - Univerzální systémy s minimální potřebou úprav
 
-## Jak na to (jednoduchý postup) 🚀
+## Detailní návod k použití 📝
 
-### 1. Začínáme
-1. Otevřete si ChatGPT nebo Claude
-2. **Důležité**: Začněte vždy s naším AI mentorem - je to jako mít učitele, který vám pomůže
+### 1. Základní použití šablony
+1. **Výběr šablony**
+   - Zvolte šablonu podle vašeho účelu
+   - Stáhněte nebo zkopírujte její obsah
+   - Prostudujte její strukturu
 
-### 2. První konverzace s AI
-1. Zkopírujte obsah souboru `example-teaching-template-complete.md` (to je váš AI mentor)
-2. Vložte ho do chatu
-3. Napište: "Prosím, buďte můj AI mentor podle této šablony"
-4. Pro kontrolu se zeptejte: "Můžete mi vysvětlit, jak mi budete pomáhat?"
+2. **Úprava šablony**
+   - Vyplňte informace o svém profilu
+   - Definujte své cíle
+   - Upravte specifické požadavky
 
-### 3. Úprava šablony pro vaše potřeby
-1. Vyberte šablonu podle toho, co potřebujete (např. programming.md pro programování)
-2. Zkopírujte její obsah a vložte do stejného chatu
-3. Řekněte mentorovi, co přesně potřebujete, například:
-   - "Potřebuji pomoct s psaním příspěvků na Instagram"
-   - "Chci se naučit programovat v Pythonu"
-   - "Pomůžete mi s copywritingem pro e-shop?"
+3. **Použití v konverzaci**
+   ```
+   1. Otevřete chat s AI
+   2. Vložte upravenou šablonu
+   3. "Dobrý den, budu komunikovat podle této šablony..."
+   ```
 
-### 4. Použití upravené šablony
-1. Otevřete si nový chat
-2. Vložte upravenou šablonu
-3. Začněte pracovat na vašem projektu
+### 2. Pokročilé použití s AI mentorem
 
-## Praktické tipy 💡
+Pro pokročilou editaci šablon pomocí AI mentora navštivte [AI_MENTOR_GUIDE.md](./AI_MENTOR_GUIDE.md).
 
-### Co funguje
-- Buďte konkrétní v tom, co potřebujete
-- Ptejte se, když něčemu nerozumíte
-- Nechte si vše vysvětlit jednoduchými slovy
+## Praktické příklady 💡
 
-### Časté problémy a jejich řešení
-❌ **Problém**: AI vám nerozumí
-✅ **Řešení**: Zeptejte se znovu jednodušeji nebo požádejte o vysvětlení po krocích
-
-❌ **Problém**: Dostáváte příliš složité odpovědi
-✅ **Řešení**: Řekněte "Můžete mi to vysvětlit jednodušeji?"
-
-❌ **Problém**: AI odbíhá od tématu
-✅ **Řešení**: Připomeňte "Vraťme se prosím k naší šabloně"
-
-## Příklady použití
-
-### Příklad: Chci psát na sociální sítě
+### Příklad: Použití šablony pro programování
 ```
-1. "Ahoj, budu používat šablonu pro sociální média"
-2. "Mám e-shop s botami a potřebuji pomoc s příspěvky na Instagram"
-3. "Můžete mi pomoct vytvořit první příspěvek o nové kolekci?"
+"Dobrý den, budu používat tuto šablonu pro vývoj v Pythonu.
+Můj profil:
+- Junior developer
+- Zkušenosti: základy Pythonu
+- Cíl: Vytvořit první webovou aplikaci
+
+Potřebuji pomoct s implementací přihlašovacího systému."
 ```
 
-### Příklad: Chci se učit programovat
+### Příklad: Použití šablony pro sociální média
 ```
-1. "Ahoj, používám šablonu pro programování"
-2. "Jsem začátečník a chci se naučit Python"
-3. "Můžeme začít s úplnými základy?"
+"Dobrý den, používám šablonu pro správu sociálních médií.
+Můj profil:
+- E-shop s přírodní kosmetikou
+- Cílová skupina: ženy 25-45 let
+- Platformy: Instagram, Facebook
+
+Potřebuji vytvořit sérii příspěvků o nové kolekci."
 ```
 
-## Závěr 🎯
-- Začněte pomalu
-- Nebojte se ptát
-- Učte se z každé konverzace
-- Pamatujte: AI je tu od toho, aby vám pomohla
+## Řešení častých problémů 🔧
 
-### Potřebujete pomoct?
-Kdykoliv se můžete vrátit k AI mentorovi a požádat o radu nebo vysvětlení.
+### Problém: AI nesleduje strukturu
+✅ **Řešení**: 
+- Připomeňte existenci šablony
+- Odkažte na konkrétní sekci
+- "Vraťme se prosím k struktuře ze šablony, sekce XY..."
+
+### Problém: Příliš obecné odpovědi
+✅ **Řešení**:
+- Doplňte více konkrétních detailů do profilu
+- Specifikujte přesněji své cíle
+- Použijte příklady toho, co očekáváte
+
+### Problém: Neúplné odpovědi
+✅ **Řešení**:
+- Požádejte o strukturovanou odpověď
+- "Můžete odpovědět podle všech bodů v sekci XY?"
+
+## Best Practices 🌟
+
+1. **Příprava**
+   - Důkladně prostudujte šablonu před použitím
+   - Připravte si všechny potřebné informace
+   - Přesně definujte své cíle
+
+2. **Během konverzace**
+   - Držte se struktury šablony
+   - Buďte konkrétní v požadavcích
+   - Vyžadujte strukturované odpovědi
+
+3. **Vylepšování**
+   - Zaznamenávejte úspěšné formulace
+   - Upravujte šablonu podle získaných zkušeností
+   - Experimentujte s různými přístupy
+
+## Závěr 📌
+
+- Začněte s jednoduchými úpravami
+- Postupně se propracujte k složitějším scénářům
+- Učte se z každé interakce
+- Pro pokročilou editaci využijte AI mentora
+
+Potřebujete pokročilou pomoc? Navštivte [AI_MENTOR_GUIDE.md](./AI_MENTOR_GUIDE.md).
