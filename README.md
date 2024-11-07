@@ -16,6 +16,15 @@ Tento repozitář nabízí kolekci šablon, které:
 - Respektují etické principy
 - Podporují bezpečné používání AI
 
+## 📋 Ukázky z praxe
+
+Podívejte se na konkrétní rozdíl v kvalitě výstupu:
+- [Výstup s použitím šablony](./comparision/with-template.md)
+- [Výstup bez použití šablony](./comparision/without-template.md)
+- [Praktická ukázka AI mentora v akci](./example/example-teaching-template-complete.md)
+
+Tyto příklady jasně demonstrují, jak správné použití šablon výrazně zlepšuje kvalitu komunikace s AI.
+
 ## 👥 Pro koho jsou šablony určené
 
 - Samostudenty a vzdělávací instituce
