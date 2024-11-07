@@ -4,6 +4,44 @@
 
 AI šablony jsou strukturované návody pro efektivní komunikaci s AI asistenty. Fungují jako "recept" pro získání co nejlepších výsledků.
 
+## Přehled šablon 📑
+
+1. **Learning Template** - Vyžaduje 90% personalizace
+   - Nutná kompletní adaptace na profil studenta a jeho vzdělávací cíle
+
+2. **Teaching Template** - Vyžaduje 50% personalizace
+   - Univerzální struktura výuky, ale nutné přizpůsobení konkrétnímu předmětu
+
+3. **Career Development** - Vyžaduje 85% personalizace
+   - Silně závislé na individuálních kariérních cílech a zkušenostech
+
+4. **Skill Acquisition** - Vyžaduje 80% personalizace
+   - Nutné definovat konkrétní dovednosti a individuální cíle rozvoje
+
+5. **Programming** - Přímo použitelná (10% personalizace)
+   - Univerzální framework pro vývoj software a best practices
+
+6. **QA Testing** - Přímo použitelná (5% personalizace)
+   - Standardizované testovací metodiky a procesy
+
+7. **Security Agent** - Přímo použitelná (5% personalizace)
+   - Kompletní framework pro kybernetickou bezpečnost
+
+8. **Social Media Agent** - Přímo použitelná (15% personalizace)
+   - Univerzální principy a postupy pro správu sociálních sítí
+
+9. **HR Recruitment** - Vyžaduje 40% personalizace
+   - Univerzální postupy s nutností adaptace na firemní kulturu
+
+10. **Copywriting** - Vyžaduje 60% personalizace
+    - Standardní postupy vyžadující přizpůsobení brand voice a cílové skupině
+
+11. **Self-improvement** - Vyžaduje 95% personalizace
+    - Zcela závislé na individuálních hodnotách a osobních cílech
+
+12. **Productivity** - Vyžaduje 25% personalizace
+    - Univerzální systémy s minimální potřebou úprav
+
 ## Rychlý start 🚀
 
 1. Vyberte vhodnou šablonu podle vašeho účelu (např. `programming.md` pro programování)
