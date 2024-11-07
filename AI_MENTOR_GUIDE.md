@@ -1,78 +1,142 @@
-## 🔄 Jak editovat další šablony pomocí AI mentora
+# 🎓 Pokročilá editace šablon s AI mentorem
 
-### Příprava
-1. Vyberte si AI asistenta podporujícího nahrávání dokumentů (např. Claude 3.5 Sonnet)
-2. Připravte si:
-   - Šablonu AI mentora z příkladu
-   - Šablonu, kterou chcete upravit
-   - Poznámky o vašich požadovaných změnách
+## Úvod
+Tento návod je určen pro pokročilou práci se šablonami pomocí AI mentora. Mentor vám pomůže s komplexními úpravami a optimalizací šablon pro vaše specifické potřeby.
 
-### Postup editace
-1. **Nastavení kontextu**
-   - Nahrajte mentorskou šablonu do nového projektu
-   - Sdělte asistentovi: "Jsi učitel AI podle nahrané šablony"
-   - Požádejte o potvrzení role
+## Příprava pro práci s AI mentorem
 
-2. **Příprava šablony k editaci**
-   - Nahrajte šablonu, kterou chcete upravit
-   - Vysvětlete asistentovi váš záměr
-   - Nechte si potvrdit pochopení úkolu
+### Technické požadavky
+- AI asistent podporující nahrávání dokumentů (doporučeno: Claude 3.5 Sonnet)
+- Připravené soubory:
+  - [AI mentor šablona](./example/example-teaching-template-complete.md)
+  - Šablona, kterou chcete upravit
+  - Poznámky k požadovaným změnám
 
-3. **Systematická editace**
-   - Postupujte po sekcích
-   - Nechte AI mentora:
-     - Analyzovat současný obsah
-     - Navrhnout změny
-     - Vysvětlit důvody úprav
-   - Průběžně poskytujte zpětnou vazbu
+### Inicializace AI mentora
+1. Vytvořte nový chat
+2. Nahrajte mentorskou šablonu
+3. Aktivujte mentora příkazem:
+   ```
+   "Prosím, přečtěte si přiloženou šablonu AI mentora a striktně se držte této role."
+   ```
+4. Ověřte aktivaci:
+   ```
+   "Můžete mi vysvětlit, jak mi budete pomáhat s editací šablon?"
+   ```
 
-4. **Kontrola a finalizace**
-   - Požádejte o shrnutí provedených změn
-   - Ověřte konzistenci s původní strukturou
-   - Zkontrolujte dodržení formátování
+## Systematický proces editace
 
-### Tipy pro efektivní editaci
+### 1. Analýza původní šablony
+- Nahrajte šablonu určenou k úpravám
+- Požádejte mentora o analýzu:
+  ```
+  "Prosím, analyzujte strukturu této šablony a identifikujte klíčové části."
+  ```
+- Prodiskutujte potřebné změny
 
-1. **Komunikace s AI mentorem**
-   - Buďte konkrétní v požadavcích
-   - Ptejte se na zdůvodnění změn
-   - Nebojte se požádat o alternativní návrhy
+### 2. Plánování úprav
+- Definujte cíle úprav
+- Stanovte priority změn
+- Vytvořte plán postupu:
+  ```
+  "Pojďme vytvořit plán úprav. Potřebuji změnit [specifické části] pro [váš účel]."
+  ```
 
-2. **Struktura práce**
-   - Rozdělte větší změny na menší části
-   - Postupujte systematicky
-   - Průběžně ukládejte verze
+### 3. Systematická editace
+1. **Sekce po sekci**
+   ```
+   "Začněme s úpravou sekce [název]. Potřebuji ji optimalizovat pro [konkrétní účel]."
+   ```
 
-3. **Kontrola kvality**
-   - Ověřujte soulad s původním záměrem šablony
-   - Kontrolujte konzistenci terminologie
-   - Testujte srozumitelnost upravených částí
+2. **Kontrolní body**
+   - Po každé větší změně ověřte konzistenci
+   - Požádejte o vysvětlení úprav
+   - Ujistěte se o zachování struktury
 
-### Příklad komunikace s AI mentorem
+3. **Iterativní vylepšování**
+   - Testujte formulace
+   - Upravujte podle potřeby
+   - Optimalizujte pro váš kontext
 
+## Pokročilé techniky editace
+
+### Hloubková analýza
 ```
-Vy: "Nahral jsem mentorskou šablonu. Budeš nyní vystupovat jako AI učitel podle této šablony?"
-
-AI: "Ano, budu vystupovat jako AI učitel podle nahrané šablony. Jsem připraven pomoct vám s editací dalších šablon systematickým a strukturovaným způsobem."
-
-Vy: "Výborně. Nyní nahrávám šablonu XY, kterou bych chtěl upravit. Pojďme začít analýzou její struktury."
-
-AI: [Poskytne analýzu a navrhne systematický přístup k úpravám...]
+"Prosím, proveďte hloubkovou analýzu sekce [název] a navrhněte optimalizace pro [váš kontext]."
 ```
 
-### Časté výzvy a jejich řešení
+### Kontextové přizpůsobení
+```
+"Jak můžeme upravit tuto část, aby lépe odpovídala [vašemu specifickému případu]?"
+```
 
-1. **Zachování konzistence**
-   - Průběžně se vracejte k původní šabloně
-   - Ověřujte návaznost sekcí
-   - Kontrolujte jednotnost stylu
+### Strukturální vylepšení
+```
+"Vidíte možnosti pro vylepšení struktury této sekce? Potřebuji ji více zaměřit na [váš cíl]."
+```
 
-2. **Udržení focus**
-   - Stanovte si jasné cíle editace
-   - Postupujte podle připraveného plánu
-   - Pravidelně rekapitulujte postup
+## Řešení pokročilých problémů
 
-3. **Řešení nejasností**
-   - Nebojte se požádat o vysvětlení
-   - Využívejte příklady
-   - Ověřujte si pochopení
+### Problém: Ztráta konzistence
+✅ **Řešení**:
+```
+"Prosím, zkontrolujte konzistenci upravené sekce s zbytkem šablony."
+```
+
+### Problém: Příliš specifické/obecné úpravy
+✅ **Řešení**:
+```
+"Potřebujeme najít rovnováhu mezi specifičností a obecností. Můžete navrhnout úpravu, která [váš požadavek]?"
+```
+
+### Problém: Komplexní změny
+✅ **Řešení**:
+```
+"Rozdělme tuto změnu na menší kroky. Začněme s [konkrétní část]."
+```
+
+## Best Practices pro práci s AI mentorem
+
+### Komunikační tipy
+- Buďte specifičtí v požadavcích
+- Požadujte vysvětlení změn
+- Průběžně ověřujte pochopení
+
+### Proces editace
+- Postupujte systematicky
+- Dokumentujte změny
+- Pravidelně kontrolujte konzistenci
+
+### Optimalizace výsledků
+- Testujte různé formulace
+- Sbírejte zpětnou vazbu
+- Iterativně vylepšujte
+
+## Kontrolní seznam pro finalizaci
+
+- [ ] Všechny sekce jsou upraveny podle potřeb
+- [ ] Struktura zůstala konzistentní
+- [ ] Terminologie je jednotná
+- [ ] Formátování je zachováno
+- [ ] Obsah odpovídá vašemu kontextu
+
+## Závěrečná doporučení
+
+1. **Před začátkem**
+   - Ujasněte si cíle
+   - Připravte si příklady
+   - Poznamenejte si klíčové požadavky
+
+2. **Během editace**
+   - Dokumentujte změny
+   - Průběžně testujte
+   - Udržujte konzistenci
+
+3. **Po dokončení**
+   - Proveďte finální revizi
+   - Otestujte upravenou šablonu
+   - Zaznamenejte si úspěšné postupy
+
+---
+
+*Pro základní použití šablon se vraťte k [HOW_TO_USE.md](./HOW_TO_USE.md)*
