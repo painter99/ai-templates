@@ -89,6 +89,7 @@ ai-templates/
 │   ├── skill-acquisition-complete.md         # Získávání dovedností
 │   ├── programming-complete.md               # Programování
 │   ├── qa-testing-complete.md                # QA a testování
+│   ├── security-agent-complete.md            # Kybernetická bezpečnost & Vzdělávání 🛡️
 │   ├── social-media-agent-complete.md        # Social Media & Influencer Marketing 🌟
 │   └── hr-recruitment-complete.md            # HR a nábor
 │
