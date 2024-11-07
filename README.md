@@ -12,15 +12,17 @@ Tento repozitář obsahuje kolekci šablon pro efektivní komunikaci s AI asiste
 
 ## 🎯 Filosofie projektu
 
-AI je jako čistý list papíru nebo surový nástroj - jeho skutečný potenciál se projeví až když mu dáme správný směr a strukturu. Podobně jako člověk bez osobnosti a charakteristických rysů, AI potřebuje naše vedení, aby mohlo efektivně sloužit našim potřebám.
+AI je jako nesmírně vzdělaný společník s encyklopedickými znalostmi, který čeká na to, jak s ním navážeme dialog. Podobně jako člověk s rozsáhlými vědomostmi, ale bez definované role a osobnosti v našem vztahu, potřebuje AI naše vedení, aby vědělo, jak nejlépe využít své schopnosti pro naše specifické potřeby.
+
+To je jako když potkáte velmi vzdělaného člověka - teprve když mu řeknete, že potřebujete mentora, učitele, nebo třeba kreativního partnera, může své znalosti použít tím správným způsobem. AI má obrovský potenciál, ale je na nás, abychom mu dali ten správný rámec a kontext pro naši spolupráci.
 
 Tento projekt si klade za cíl:
 - Pomoct začátečníkům pochopit principy efektivní komunikace s AI
-- Ukázat, jak "vytvarovat" AI nástroj podle specifických potřeb uživatele
+- Ukázat, jak definovat a nastavit vztah s AI pro maximální užitek
 - Poskytnout základní rámec pro vlastní experimentování a učení
-- Demonstrovat, že každý může AI přizpůsobit svému oboru a způsobu práce
+- Demonstrovat, že každý může nasměrovat AI způsobem, který nejlépe vyhovuje jeho potřebám
 
-Pamatujte: Tyto šablony jsou odrazovým můstkem, ne definitivním řešením. Jsou základem, na kterém můžete stavět vlastní, unikátní způsob práce s AI.
+Pamatujte: Tyto šablony jsou odrazovým můstkem, ne definitivním řešením. Jsou základem, na kterém můžete stavět vlastní, unikátní způsob komunikace s AI a využít tak její rozsáhlé znalosti nejefektivnějším způsobem pro vaše potřeby.
 
 ## 📋 Ukázky a porovnání
 
