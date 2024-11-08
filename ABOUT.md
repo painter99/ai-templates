@@ -59,11 +59,6 @@ Projekt podporuje kontinuální vzdělávání v oblasti AI skrze:
 
 ---
 
-
-[předchozí obsah ABOUT.md zůstává stejný...]
-
----
-
 *Projekt AI Prompt Templates je otevřenou platformou pro rozvoj efektivnější komunikace s AI.*
 
 [🏠 Zpět na README](./README.md)
