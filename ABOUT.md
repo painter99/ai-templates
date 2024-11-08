@@ -57,14 +57,6 @@ Projekt podporuje kontinuální vzdělávání v oblasti AI skrze:
 - Podporu inovativních přístupů
 - Asistenci při adoptci AI technologií
 
-## 🌟 Plánovaný rozvoj
-
-V plánu je:
-- Rozšíření do dalších specializovaných oblastí
-- Tvorba interaktivních výukových materiálů
-- Možnost komunitních workshopů
-- Vývoj nástrojů pro práci s šablonami
-
 ---
 
 *Projekt AI Prompt Templates je otevřenou platformou pro rozvoj efektivnější komunikace s AI.*
