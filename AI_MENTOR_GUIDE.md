@@ -1,15 +1,15 @@
 # 🎓 Pokročilá editace šablon s AI mentorem
 
 ## Úvod
-Tento návod je určen pro pokročilou práci se šablonami pomocí AI mentora. Mentor vám pomůže s komplexními úpravami a optimalizací šablon pro vaše specifické potřeby.
+Tento návod popisuje pokročilé postupy pro úpravu šablon pomocí AI mentora. Mentor pomáhá s komplexními úpravami a optimalizací šablon pro specifické potřeby.
 
 ## Příprava pro práci s AI mentorem
 
 ### Technické požadavky
 - AI asistent podporující nahrávání dokumentů (doporučeno: Claude 3.5 Sonnet)
 - Připravené soubory:
-  - [AI mentor šablona](./example/example-teaching-template-complete.md)
-  - Šablona, kterou chcete upravit
+  - [Mentorská šablona](./example/example-teaching-template-complete.md)
+  - Šablona určená k úpravě
   - Poznámky k požadovaným změnám
 
 ### Inicializace AI mentora
@@ -28,7 +28,7 @@ Tento návod je určen pro pokročilou práci se šablonami pomocí AI mentora. 
 
 ### 1. Analýza původní šablony
 - Nahrajte šablonu určenou k úpravám
-- Požádejte mentora o analýzu:
+- Požádejte o analýzu:
   ```
   "Prosím, analyzujte strukturu této šablony a identifikujte klíčové části."
   ```
@@ -39,7 +39,7 @@ Tento návod je určen pro pokročilou práci se šablonami pomocí AI mentora. 
 - Stanovte priority změn
 - Vytvořte plán postupu:
   ```
-  "Pojďme vytvořit plán úprav. Potřebuji změnit [specifické části] pro [váš účel]."
+  "Pojďme vytvořit plán úprav. Potřebuji změnit [specifické části] pro [konkrétní účel]."
   ```
 
 ### 3. Systematická editace
@@ -49,30 +49,30 @@ Tento návod je určen pro pokročilou práci se šablonami pomocí AI mentora. 
    ```
 
 2. **Kontrolní body**
-   - Po každé větší změně ověřte konzistenci
-   - Požádejte o vysvětlení úprav
-   - Ujistěte se o zachování struktury
+   - Ověřování po každé větší změně
+   - Vyžádání vysvětlení úprav
+   - Kontrola zachování struktury
 
 3. **Iterativní vylepšování**
-   - Testujte formulace
-   - Upravujte podle potřeby
-   - Optimalizujte pro váš kontext
+   - Testování formulací
+   - Úpravy podle potřeby
+   - Optimalizace pro daný kontext
 
 ## Pokročilé techniky editace
 
 ### Hloubková analýza
 ```
-"Prosím, proveďte hloubkovou analýzu sekce [název] a navrhněte optimalizace pro [váš kontext]."
+"Prosím, proveďte hloubkovou analýzu sekce [název] a navrhněte optimalizace pro [konkrétní kontext]."
 ```
 
 ### Kontextové přizpůsobení
 ```
-"Jak můžeme upravit tuto část, aby lépe odpovídala [vašemu specifickému případu]?"
+"Jak lze upravit tuto část pro lepší využití v [specifickém případě]?"
 ```
 
 ### Strukturální vylepšení
 ```
-"Vidíte možnosti pro vylepšení struktury této sekce? Potřebuji ji více zaměřit na [váš cíl]."
+"Jaké jsou možnosti vylepšení struktury této sekce pro [konkrétní cíl]?"
 ```
 
 ## Řešení pokročilých problémů
@@ -80,62 +80,62 @@ Tento návod je určen pro pokročilou práci se šablonami pomocí AI mentora. 
 ### Problém: Ztráta konzistence
 ✅ **Řešení**:
 ```
-"Prosím, zkontrolujte konzistenci upravené sekce s zbytkem šablony."
+"Prosím o kontrolu konzistence upravené sekce se zbytkem šablony."
 ```
 
-### Problém: Příliš specifické/obecné úpravy
+### Problém: Nevyvážené úpravy
 ✅ **Řešení**:
 ```
-"Potřebujeme najít rovnováhu mezi specifičností a obecností. Můžete navrhnout úpravu, která [váš požadavek]?"
+"Potřebuji najít rovnováhu mezi specifičností a obecností. Navrhněte úpravu pro [konkrétní požadavek]."
 ```
 
 ### Problém: Komplexní změny
 ✅ **Řešení**:
 ```
-"Rozdělme tuto změnu na menší kroky. Začněme s [konkrétní část]."
+"Rozdělme tuto změnu na menší kroky. Začněme s [konkrétní částí]."
 ```
 
-## Best Practices pro práci s AI mentorem
+## Best Practices pro editaci
 
-### Komunikační tipy
-- Buďte specifičtí v požadavcích
-- Požadujte vysvětlení změn
-- Průběžně ověřujte pochopení
+### Komunikační postupy
+- Specifické požadavky
+- Vyžádání vysvětlení změn
+- Průběžné ověřování pochopení
 
 ### Proces editace
-- Postupujte systematicky
-- Dokumentujte změny
-- Pravidelně kontrolujte konzistenci
+- Systematický postup
+- Dokumentace změn
+- Pravidelná kontrola konzistence
 
 ### Optimalizace výsledků
-- Testujte různé formulace
-- Sbírejte zpětnou vazbu
-- Iterativně vylepšujte
+- Testování různých formulací
+- Sběr zpětné vazby
+- Průběžné vylepšování
 
 ## Kontrolní seznam pro finalizaci
 
-- [ ] Všechny sekce jsou upraveny podle potřeb
-- [ ] Struktura zůstala konzistentní
-- [ ] Terminologie je jednotná
-- [ ] Formátování je zachováno
-- [ ] Obsah odpovídá vašemu kontextu
+- [ ] Všechny sekce upraveny podle potřeb
+- [ ] Struktura zachována konzistentní
+- [ ] Terminologie sjednocena
+- [ ] Formátování zachováno
+- [ ] Obsah odpovídá kontextu
 
 ## Závěrečná doporučení
 
 1. **Před začátkem**
-   - Ujasněte si cíle
-   - Připravte si příklady
-   - Poznamenejte si klíčové požadavky
+   - Jasné cíle
+   - Připravené příklady
+   - Seznam klíčových požadavků
 
 2. **Během editace**
-   - Dokumentujte změny
-   - Průběžně testujte
-   - Udržujte konzistenci
+   - Dokumentace změn
+   - Průběžné testování
+   - Zachování konzistence
 
 3. **Po dokončení**
-   - Proveďte finální revizi
-   - Otestujte upravenou šablonu
-   - Zaznamenejte si úspěšné postupy
+   - Finální revize
+   - Test upravené šablony
+   - Záznam úspěšných postupů
 
 ---
 
