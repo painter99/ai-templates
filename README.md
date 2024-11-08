@@ -4,7 +4,7 @@ Vítejte v repozitáři šablon pro efektivní komunikaci s AI asistenty. Projek
 
 ## ⚡ Rychlý start
 
-1. Vyberte si vhodnou šablonu podle vašeho zaměření (viz struktura repozitáře níže)
+1. Vyberte si vhodnou šablonu podle zaměření (viz struktura repozitáře níže)
 2. Následujte detailní návod v [HOW_TO_USE.md](./HOW_TO_USE.md)
 3. Pro pokročilé úpravy šablon využijte [AI_MENTOR_GUIDE.md](./AI_MENTOR_GUIDE.md)
 
@@ -16,14 +16,16 @@ Tento repozitář nabízí kolekci šablon, které:
 - Respektují etické principy
 - Podporují bezpečné používání AI
 
+👉 [Více o filozofii a vizi projektu v ABOUT.md](./ABOUT.md)
+
 ## 📋 Ukázky z praxe
 
-Podívejte se na konkrétní rozdíl v kvalitě výstupu:
+Rozdíl v kvalitě výstupu při použití šablon:
 - [Výstup s použitím šablony](./comparision/with-template.md)
 - [Výstup bez použití šablony](./comparision/without-template.md)
-- [Praktická ukázka AI mentora v akci](./example/example-teaching-template-complete.md)
+- [Praktická ukázka AI mentora](./example/example-teaching-template-complete.md)
 
-Tyto příklady jasně demonstrují, jak správné použití šablon výrazně zlepšuje kvalitu komunikace s AI.
+Tyto příklady demonstrují, jak správné použití šablon výrazně zlepšuje kvalitu komunikace s AI.
 
 ## 👥 Pro koho jsou šablony určené
 
@@ -80,12 +82,12 @@ ai-templates/
 
 ## 🤖 Credits & Attribution
 
-Všechny šablony v tomto repozitáři byly vytvořeny ve spolupráci s AI asistentem Claude 3.5 Sonnet.
+Všechny šablony byly vytvořeny ve spolupráci s AI asistentem Claude 3.5 Sonnet.
 
 ## 📜 Licence
 
-Tento projekt je licencován pod [MIT License](./LICENSE.md).
+Projekt je licencován pod [MIT License](./LICENSE.md).
 
 ---
 
-*Tento repozitář je živý projekt a neustále se vyvíjí. Vaše zpětná vazba a příspěvky jsou vítány!*
+*Projekt je živý a neustále se vyvíjí. Zpětná vazba a příspěvky jsou vítány!*
