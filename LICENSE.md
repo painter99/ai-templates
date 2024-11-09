@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2024 AI Templates
+Copyright (c) 2024 painter99
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@ SOFTWARE.
 
 # MIT Licence (česká verze - neoficiální překlad)
 
-Copyright (c) 2024 AI Templates
+Copyright (c) 2024 painter99
 
 Tímto se uděluje bezplatná licence každé osobě, která získá kopii
 tohoto softwaru a souvisejících dokumentačních souborů (dále jen "Software"),
