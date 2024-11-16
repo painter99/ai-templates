@@ -10,43 +10,43 @@ Pro lepší pochopení praktického využití:
 ## Přehled šablon a míra personalizace 📑
 
 ### 📚 Education
-1. **Learning Template** - Vyžaduje 90% personalizace
+1. **[Learning Template](./education/learning-template-complete.md)** - Vyžaduje 90% personalizace
    - Nutná kompletní adaptace na profil studenta a jeho vzdělávací cíle
 
-2. **Teaching Template** - Vyžaduje 50% personalizace
+2. **[Teaching Template](./education/teaching-template-complete.md)** - Vyžaduje 50% personalizace
    - Univerzální struktura výuky, ale nutné přizpůsobení konkrétnímu předmětu
 
 ### 💼 Professional
-3. **Career Development** - Vyžaduje 85% personalizace
+3. **[Career Development](./professional/career-development-complete.md)** - Vyžaduje 85% personalizace
    - Silně závislé na individuálních kariérních cílech a zkušenostech
 
-4. **Skill Acquisition** - Vyžaduje 80% personalizace
+4. **[Skill Acquisition](./professional/skill-acquisition-complete.md)** - Vyžaduje 80% personalizace
    - Nutné definovat konkrétní dovednosti a individuální cíle rozvoje
 
-5. **Programming** - Přímo použitelná (10% personalizace)
+5. **[Programming](./professional/programming-complete.md)** - Přímo použitelná (10% personalizace)
    - Univerzální framework pro vývoj software a best practices
 
-6. **QA Testing** - Přímo použitelná (5% personalizace)
+6. **[QA Testing](./professional/qa-testing-complete.md)** - Přímo použitelná (5% personalizace)
    - Standardizované testovací metodiky a procesy
 
-7. **Security Agent** - Přímo použitelná (5% personalizace)
+7. **[Security Agent](./professional/security-agent-complete.md)** - Přímo použitelná (5% personalizace)
    - Kompletní framework pro kybernetickou bezpečnost
 
-8. **Social Media Agent** - Přímo použitelná (15% personalizace)
+8. **[Social Media Agent](./professional/social-media-agent-complete.md)** - Přímo použitelná (15% personalizace)
    - Univerzální principy a postupy pro správu sociálních sítí
 
-9. **HR Recruitment** - Vyžaduje 40% personalizace
+9. **[HR Recruitment](./professional/hr-recruitment-complete.md)** - Vyžaduje 40% personalizace
    - Univerzální postupy s nutností adaptace na firemní kulturu
 
 ### 📝 Content
-10. **Copywriting** - Vyžaduje 60% personalizace
+10. **[Copywriting](./content/copywriting-complete.md)** - Vyžaduje 60% personalizace
     - Standardní postupy vyžadující přizpůsobení brand voice a cílové skupině
 
 ### 🎯 Personal
-11. **Self-improvement** - Vyžaduje 95% personalizace
+11. **[Self-improvement](./personal/self-improvement-complete.md)** - Vyžaduje 95% personalizace
     - Zcela závislé na individuálních hodnotách a osobních cílech
 
-12. **Productivity** - Vyžaduje 25% personalizace
+12. **[Productivity](./personal/productivity-complete.md)** - Vyžaduje 25% personalizace
     - Univerzální systémy s minimální potřebou úprav
 
 ## Detailní návod k použití 📝
