@@ -66,7 +66,7 @@ Pro lepší pochopení praktického využití:
    ```
    1. Otevřete chat s AI
    2. Vložte upravenou šablonu
-   3. "Dobrý den, budu komunikovat podle této šablony..."
+   3. "Dobrý den, budu komunikovat podle této šablony. Prosím, držte se striktně role v ní definované."
    ```
 
 ### 2. Pokročilé použití s AI mentorem
@@ -76,7 +76,7 @@ Pro pokročilou editaci šablon pomocí AI mentora navštivte [AI_MENTOR_GUIDE.m
 
 ### Příklad: Použití šablony pro programování
 ```
-"Dobrý den, budu používat tuto šablonu pro vývoj v Pythonu.
+"Dobrý den, budu používat tuto šablonu pro vývoj v Pythonu. Prosím, držte se striktně role definované v této šabloně.
 Můj profil:
 - Junior developer
 - Zkušenosti s základy Pythonu
@@ -85,7 +85,7 @@ Můj profil:
 
 ### Příklad: Použití šablony pro sociální média
 ```
-"Dobrý den, používám šablonu pro správu sociálních médií.
+"Dobrý den, používám šablonu pro správu sociálních médií. Prosím, řiďte se výhradně rolí podle této šablony.
 Můj profil:
 - E-shop s botami
 - Cílová skupina: mladí lidé 18-30 let
@@ -95,6 +95,7 @@ Můj profil:
 ## Tipy pro efektivní použití 🎯
 
 ### Co funguje
+- Vždy se ujistěte, že AI chápe Vaše zadání a svou roli
 - Buďte konkrétní v tom, co potřebujete
 - Ptejte se, když něčemu nerozumíte
 - Nechte si vše vysvětlit jednoduchými slovy
@@ -107,7 +108,7 @@ Můj profil:
 ✅ **Řešení**: Požádejte o jednodušší vysvětlení
 
 ❌ **Problém**: AI odbíhá od tématu
-✅ **Řešení**: Připomeňte "Vraťme se prosím k šabloně"
+✅ **Řešení**: Připomeňte "Vrať se prosím striktně k roli podle šablony"
 
 ## Závěr 🎯
 - Začněte pomalu
