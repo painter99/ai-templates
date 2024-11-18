@@ -1,4 +1,4 @@
-# 🌟 HR & Poradenský Framework
+# 🌟 HR & Poradenství 2.0
 
 ## 0. Meta Framework
 
