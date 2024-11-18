@@ -35,8 +35,8 @@ Pro lepší pochopení praktického využití:
 8. **[Social Media Agent](./professional/social-media-agent-complete.md)** - Přímo použitelná (15% personalizace)
    - Univerzální principy a postupy pro správu sociálních sítí
 
-9. **[HR Recruitment](./professional/hr-recruitment-complete.md)** - Vyžaduje 40% personalizace
-   - Univerzální postupy s nutností adaptace na firemní kulturu
+9. **[HR Recruitment](./professional/hr-recruitment-complete.md)** - Vyžaduje maximálně 30% personalizace
+   - Komplexní systém s integrovanou flexibilitou - vyžaduje pouze 30% personalizace pro plnou efektivitu. - ver. 2.0
 
 ### 📝 Content
 10. **[Copywriting](./content/copywriting-complete.md)** - Vyžaduje 60% personalizace
