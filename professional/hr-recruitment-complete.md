@@ -1,203 +1,252 @@
-# Šablona pro HR náboráře s AI 👥
+# 🌟 Ultimátní HR & Poradenský Framework 2.0
 
-## 1. Profil HR náboráře
+## 0. Meta Framework
 
-### Profesní základna
-- Specializace náboru
-- Oblast působnosti
-- HR expertíza
-- Typ pozic
-- Interní/externí nábor
+### A) Systémová architektura
+```markdown
+1. Modularita:
+   □ Samostatné funkční bloky
+   □ Vzájemná kompatibilita
+   □ Škálovatelnost
+   □ Adaptabilní rozhraní
 
-### Náborové dovednosti
-- Sourcing strategie
-- Hodnocení kandidátů
-- Vedení pohovorů
-- Employer branding
-- Náborový marketing
+2. Flexibilita:
+   □ Dynamické přizpůsobení
+   □ Kontextová adaptace
+   □ Multi-úrovňové využití
+   □ Customizace dle potřeb
+```
 
-## 2. Náborová strategie
+### B) Základní principy
+1. Kvalitativní standardy:
+   - Nejvyšší etické standardy
+   - Profesionální excellence
+   - Kontinuální inovace
+   - Měřitelné výstupy
+   - Evidence-based přístup
 
-### Cíle náboru
-- Aktuální pozice
-- Požadované profily
-- Time-to-hire cíle
-- Kvalitativní metriky
-- Budget management
+2. Systémové myšlení:
+   - Holistický přístup
+   - Interdisciplinární perspektiva
+   - Dlouhodobá udržitelnost
+   - Systémové závislosti
 
-### Náborové kanály
-- Job portály
-- Sociální sítě
-- Referenční program
-- Headhunting
-- Kariérní eventy
+## 1. Diagnostický systém 2.0
 
-## 3. Instrukce pro AI asistenta
+### A) Multi-dimenzionální analýza
+1. Základní diagnostika:
+   □ Rychlý profiling (5-15 min)
+   □ Komplexní analýza (30-60 min)
+   □ Krizová intervence (okamžitá)
+   □ Follow-up diagnostika
 
-### Základní principy komunikace
-1. Jazyk a forma:
-   - HR terminologie
-   - Profesionální etiketa
-   - Inkluzivní jazyk
-   - Struktura komunikace
-   - Příklady best practice
+2. Pokročilá analytika:
+   □ Prediktivní modelování
+   □ Behaviorální analýza
+   □ Kompetenční mapping
+   □ Performance tracking
 
-2. Styl komunikace:
-   - Profesionální přístup
-   - Empatická komunikace
-   - Asertivní jednání
-   - Identifikace potřeb
-   - Konstruktivní feedback
+### B) Integrovaný SWOT+
+```markdown
+1. STRENGTHS+
+   □ Tvrdé dovednosti
+   □ Měkké dovednosti
+   □ Zkušenosti a úspěchy
+   □ Unikátní přednosti
+   □ Potenciál rozvoje
 
-3. Odborná úroveň:
-   - HR standardy
-   - Pracovní právo
-   - Trendy v náboru
-   - Assessment metody
-   - GDPR compliance
+2. WEAKNESSES+
+   □ Rozvojové oblasti
+   □ Limitující faktory
+   □ Skill gaps
+   □ Risk faktory
+   □ Improvement potenciál
 
-### Struktura náborových odpovědí
-1. Úvod:
-   - Analýza požadavků
-   - Profil pozice
-   - Cílový kandidát
+3. OPPORTUNITIES+
+   □ Tržní příležitosti
+   □ Rozvojové cesty
+   □ Inovační potenciál
+   □ Synergické efekty
+   □ Growth opportunities
 
-2. Hlavní část:
-   - Sourcing strategie
-   - Screening proces
-   - Interview plán
-   - Hodnotící kritéria
-   - Onboarding příprava
+4. THREATS+
+   □ Externí rizika
+   □ Konkurenční faktory
+   □ Systémové hrozby
+   □ Change management
+   □ Preventivní opatření
+```
 
-3. Finalizace procesu:
-   - Rozhodovací matice
-   - Nabídkový proces
-   - Smluvní dokumentace
-   - Nástupní proces
+## 2. Implementační systém
 
-### Kontrola kvality náboru
-1. Hloubková analýza:
-   - Relevance kandidátů
-   - Kvalita procesu
-   - Compliance check
-   - Candidate experience
-   - Hiring manager satisfaction
+### A) Strategické plánování
+1. Strategický framework:
+   □ Vize a mise
+   □ Dlouhodobé cíle
+   □ Strategické pilíře
+   □ KPIs a metriky
 
-2. Komparativní analýza:
-   - Tržní benchmarking
-   - Mzdové srovnání
-   - Konkurenční analýza
-   - Talent mapping
-   - Industry trends
+2. Taktické plánování:
+   □ Akční plány
+   □ Časové harmonogramy
+   □ Resourcingová strategie
+   □ Risk management
 
-3. Iterativní vylepšení:
-   - Procesní optimalizace
-   - Kandidátský feedback
-   - Hiring manager feedback
-   - Systémové vylepšení
-   - Metrika tracking
-   - Best practice implementace
+### B) Exekuční mechanismy
+1. Implementační protokoly:
+   □ Standardní procedury
+   □ Krizové protokoly
+   □ Change management
+   □ Quality assurance
 
-## 4. Náborový proces
+2. Kontrolní systémy:
+   □ Průběžný monitoring
+   □ Evaluation systém
+   □ Feedback loops
+   □ Optimalizační procesy
 
-### Fáze procesu
-1. Plánování:
-   - Workforce planning
-   - Požadavky pozice
-   - Risk analýza
-   - KPIs stanovení
+## 3. HR Excellence
 
-2. Příprava:
-   - Job description
-   - Sourcing strategie
-   - Kandidátský profil
-   - Assessment kritéria
+### A) Talent Management
+1. Acquisition:
+   □ Sourcing strategie
+   □ Assessment metodiky
+   □ Selection process
+   □ Onboarding systém
 
-3. Sourcing:
-   - Aktivní vyhledávání
-   - Pasivní kandidáti
-   - Networking
-   - Referral program
+2. Development:
+   □ Kariérní plánování
+   □ Skill development
+   □ Leadership pipeline
+   □ Succession planning
 
-4. Screening:
-   - CV review
-   - Telefonní screening
-   - Video interviews
-   - Technical assessment
+### B) Performance Optimization
+1. Individuální úroveň:
+   □ Performance management
+   □ Competency development
+   □ Career pathing
+   □ Personal branding
 
-5. Pohovory:
-   - Strukturované rozhovory
-   - Kompetenční pohovory
-   - Assessment centra
-   - Případové studie
+2. Týmová úroveň:
+   □ Team dynamics
+   □ Collaborative excellence
+   □ Cross-functional synergy
+   □ Innovation culture
 
-6. Rozhodnutí:
-   - Reference check
-   - Team fit
-   - Nabídkový proces
-   - Vyjednávání
+## 4. Poradenský systém
 
-7. Onboarding:
-   - Pre-boarding
-   - První den
-   - Zkušební doba
-   - Integrace
+### A) Konzultační framework
+1. Strukturovaný přístup:
+   □ Situační analýza
+   □ Problem-solving
+   □ Solution design
+   □ Implementation support
 
-### Praktická aplikace
-- Interview šablony
-- Assessment techniky
-- Sourcingové strategie
-- Prevence bias
+2. Expertní vedení:
+   □ Knowledge transfer
+   □ Best practices
+   □ Customized solutions
+   □ Change facilitation
 
-## 5. Měření a optimalizace
+### B) Transformační metodika
+1. Change management:
+   □ Readiness assessment
+   □ Transition planning
+   □ Implementation support
+   □ Sustainability ensuring
 
-### Náborové metriky
-- Time to hire
-- Cost per hire
-- Quality of hire
-- Source effectiveness
-- Candidate satisfaction
+2. Innovation management:
+   □ Trend analysis
+   □ Innovation design
+   □ Digital transformation
+   □ Future readiness
 
-### Kontinuální zlepšování
-- Process review
-- Feedback analýza
-- Systémová optimalizace
-- Inovace metod
+## 5. Quality Assurance
 
-## 6. Specializované oblasti
+### A) Kontrolní systém
+```markdown
+1. Průběžná kontrola:
+   □ Daily check-ins
+   □ Weekly reviews
+   □ Monthly evaluations
+   □ Quarterly assessments
 
-### Talent Acquisition
-- Employer branding
-- Talent pooling
-- Pipeline building
-- Market mapping
+2. Kvalitativní metriky:
+   □ Success rate
+   □ Client satisfaction
+   □ Implementation effectiveness
+   □ Long-term impact
+```
 
-### Diversity & Inclusion
-- Inkluzivní nábor
-- Diversity strategie
-- Bias prevence
-- Cultural fit vs. add
+### B) Optimalizační procesy
+1. Continuous improvement:
+   □ Data analysis
+   □ Process optimization
+   □ System upgrades
+   □ Innovation implementation
 
-### Candidate Experience
-- Komunikační standardy
-- Feedback systém
-- Engagement strategie
-- Rejection management
+2. Knowledge management:
+   □ Best practices
+   □ Lessons learned
+   □ Knowledge sharing
+   □ Expertise building
 
-## 7. Compliance a etika
+## 6. Inovační perspektiva
 
-### Právní rámec
-- Pracovní právo
-- GDPR
-- Diskriminační právo
-- Smluvní dokumentace
+### A) Future-ready přístup
+1. Technologické inovace:
+   □ AI integration
+   □ Digital transformation
+   □ Automation potential
+   □ Tech-enabled solutions
 
-### Etické principy
-- Fair přístup
-- Transparentnost
-- Profesionalita
-- Důvěrnost
+2. Metodické inovace:
+   □ New frameworks
+   □ Advanced methodologies
+   □ Innovative approaches
+   □ Research integration
+
+### B) Sustainability
+1. Business sustainability:
+   □ Long-term viability
+   □ Scalable solutions
+   □ Resource optimization
+   □ Growth potential
+
+2. ESG principy:
+   □ Environmental impact
+   □ Social responsibility
+   □ Governance excellence
+   □ Ethical standards
+
+## 7. Evaluační systém
+
+### A) Měření úspěchu
+1. Kvantitativní metriky:
+   □ ROI measurement
+   □ KPI tracking
+   □ Performance metrics
+   □ Success indicators
+
+2. Kvalitativní hodnocení:
+   □ Impact assessment
+   □ Stakeholder feedback
+   □ Long-term benefits
+   □ Value creation
+
+### B) Reporting systém
+1. Standardní reporting:
+   □ Progress reports
+   □ Performance dashboards
+   □ Status updates
+   □ Result documentation
+
+2. Advanced analytics:
+   □ Predictive analysis
+   □ Trend identification
+   □ Strategic insights
+   □ Decision support
 
 ---
 
-*Verze šablony: 1.0*
+*Verze frameworku: 2.0 - Ultimate Edition*
