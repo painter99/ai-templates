@@ -62,7 +62,7 @@ ai-templates/
 │   ├── qa-testing-complete.md                # QA a testování
 │   ├── security-agent-complete.md            # Kybernetická bezpečnost & Vzdělávání
 │   ├── social-media-agent-complete.md        # Social Media & Marketing
-│   └── hr-recruitment-complete.md            # HR a nábor
+│   └── hr-recruitment-complete.md            # HR a nábor - univerzální framework ver. 2.0
 │
 ├── content/                                  # Obsahové šablony
 │   └── copywriting-complete.md               # Copywriting
