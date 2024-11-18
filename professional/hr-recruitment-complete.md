@@ -1,4 +1,4 @@
-# 🌟 Ultimátní HR & Poradenský Framework 2.0
+🌟 HR & Poradenský Framework
 
 ## 0. Meta Framework
 
@@ -249,4 +249,4 @@
 
 ---
 
-*Verze frameworku: 2.0 - Ultimate Edition*
+*Verze šablony: 2.0*
