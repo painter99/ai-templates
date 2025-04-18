@@ -62,7 +62,10 @@ ai-templates/
 │   ├── qa-testing-complete.md                # QA a testování
 │   ├── security-agent-complete.md            # Kybernetická bezpečnost & Vzdělávání
 │   ├── social-media-agent-complete.md        # Social Media & Marketing
-│   └── hr-recruitment-complete.md            # HR & Poradenství 2.0
+│   ├── hr-recruitment-complete.md            # HR & Poradenství 2.0
+│   └── crypto-finance/                       # Kryptoměny a finance
+│       ├── crypto-and-finance-template.md    # Hlavní šablona
+│       └── instructions-for-claude.md        # Instrukce pro Claude
 │
 ├── content/                                  # Obsahové šablony
 │   └── copywriting-complete.md               # Copywriting
