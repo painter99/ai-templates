@@ -38,15 +38,18 @@ Pro lepší pochopení praktického využití:
 9. **[HR Recruitment](./professional/hr-recruitment-complete.md)** - Vyžaduje maximálně 30% personalizace
    - Komplexní systém s integrovanou flexibilitou - vyžaduje pouze 30% personalizace pro plnou efektivitu. - ver. 2.0
 
+10. **[Crypto and Finance Analysis](./professional/crypto-finance/crypto-and-finance-template.md)** - Přímo použitelná (15% personalizace)
+   - Komplexní průvodce pro analýzu finančních trhů a kryptoměn, který pomáhá s investičními rozhodnutími a pochopením tržních trendů pro začátečníky i pokročilé uživatele.
+
 ### 📝 Content
-10. **[Copywriting](./content/copywriting-complete.md)** - Vyžaduje 60% personalizace
+11. **[Copywriting](./content/copywriting-complete.md)** - Vyžaduje 60% personalizace
     - Standardní postupy vyžadující přizpůsobení brand voice a cílové skupině
 
 ### 🎯 Personal
-11. **[Self-improvement](./personal/self-improvement-complete.md)** - Vyžaduje 95% personalizace
+12. **[Self-improvement](./personal/self-improvement-complete.md)** - Vyžaduje 95% personalizace
     - Zcela závislé na individuálních hodnotách a osobních cílech
 
-12. **[Productivity](./personal/productivity-complete.md)** - Vyžaduje 25% personalizace
+13. **[Productivity](./personal/productivity-complete.md)** - Vyžaduje 25% personalizace
     - Univerzální systémy s minimální potřebou úprav
 
 ## Detailní návod k použití 📝
