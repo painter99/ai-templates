@@ -1,6 +1,9 @@
 # 🤖 AI Prompt Templates
 
-Vítejte v repozitáři šablon pro efektivní komunikaci s AI asistenty. Projekt poskytuje strukturované a etické šablony pro různé způsoby využití AI.
+**⚠️ Upozornění: Tento projekt byl archivován.**
+**Již není aktivně udržován a materiály slouží primárně pro referenční a historické účely.**
+
+Vítejte v archivovaném repozitáři šablon pro efektivní komunikaci s AI asistenty. Projekt poskytuje strukturované a etické šablony pro různé způsoby využití AI.
 
 ## ⚡ Rychlý start
 
@@ -10,13 +13,15 @@ Vítejte v repozitáři šablon pro efektivní komunikaci s AI asistenty. Projek
 
 ## 📚 O projektu
 
-Tento repozitář nabízí kolekci šablon, které:
-- Maximalizují kvalitu AI odpovědí
-- Zajišťují konzistentní výsledky
-- Respektují etické principy
-- Podporují bezpečné používání AI
+Tento archivovaný repozitář původně nabízel kolekci šablon, které měly za cíl:
+- Maximalizovat kvalitu AI odpovědí
+- Zajišťovat konzistentní výsledky
+- Respektovat etické principy
+- Podporovat bezpečné používání AI
 
-👉 [Více o filozofii a vizi projektu v ABOUT.md](./ABOUT.md)
+**Upozorňujeme:** Projekt byl archivován a nebude dále aktivně vyvíjen ani aktualizován. Materiály zde obsažené představují stav v době archivace a jsou k dispozici primárně pro referenční a studijní účely.
+
+👉 [Více o původní filozofii a vizi projektu v ABOUT.md](./ABOUT.md)
 
 ## 📋 Ukázky z praxe
 
@@ -25,31 +30,31 @@ Rozdíl v kvalitě výstupu při použití šablon:
 - [Výstup bez použití šablony](./comparision/without-template.md)
 - [Praktická ukázka AI mentora](./example/example-teaching-template-complete.md)
 
-Tyto příklady demonstrují, jak správné použití šablon výrazně zlepšuje kvalitu komunikace s AI.
+Tyto příklady demonstrují, jak správné použití šablon výrazně zlepšuje kvalitu komunikace s AI (v době aktivního vývoje projektu).
 
-## 👥 Pro koho jsou šablony určené
+## 👥 Pro koho byly šablony určené (v době aktivního vývoje)
 
 - Samostudenty a vzdělávací instituce
 - Profesionály v různých oborech
 - Vývojáře a technické pracovníky
 - Kreativní pracovníky
-- Každého, kdo chce efektivně komunikovat s AI
+- Každého, kdo chtěl efektivně komunikovat s AI
 
 ## 📂 Struktura repozitáře
 
 ```
 ai-templates/
-├── README.md                                 # Hlavní popis projektu
+├── README.md                                 # Hlavní popis projektu (nyní archivovaného)
 ├── LICENSE.md                                # MIT Licence
-├── HOW_TO_USE.md                             # Návod k použití šablon
-├── AI_MENTOR_GUIDE.md                        # Návod na editaci šablon
+├── HOW_TO_USE.md                             # Původní návod k použití šablon
+├── AI_MENTOR_GUIDE.md                        # Původní návod na editaci šablon
 │
 ├── education/                                # Vzdělávací šablony
 │   ├── learning-template-complete.md         # Šablona pro studium
 │   └── teaching-template-complete.md         # Šablona pro výuku
 │
 ├── example/                                  # Příklad použití šablony
-│   └── example-teaching-template-complete.md # AI mentor 
+│   └── example-teaching-template-complete.md # AI mentor
 │
 ├── comparision/                              # Porovnání výstupu
 │   ├── with-template.md                      # Výstup s použitím šablony
@@ -75,7 +80,7 @@ ai-templates/
     └── productivity-complete.md              # Produktivita
 ```
 
-## 🔒 Bezpečnost a etika
+## 🔒 Bezpečnost a etika (Původní doporučení)
 
 - Nepoužívejte šablony pro generování škodlivého obsahu
 - Buďte transparentní ohledně použití AI
@@ -83,7 +88,7 @@ ai-templates/
 - Ověřujte výstupy AI
 - Nesdílejte citlivé osobní údaje
 
-## 🤖 Credits & Attribution
+## 🤖 Credits & Attribution (V době aktivního vývoje)
 
 Všechny šablony byly vytvořeny ve spolupráci s AI asistentem Claude 3.5 Sonnet.
 
@@ -93,4 +98,4 @@ Projekt je licencován pod [MIT License](./LICENSE.md).
 
 ---
 
-*Projekt je živý a neustále se vyvíjí. Zpětná vazba a příspěvky jsou vítány!*
+*Tento projekt byl archivován a není již aktivně udržován.*
