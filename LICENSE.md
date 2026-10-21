@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2024 painter99
+Copyright (c) 2024 Pavel Mareš
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@ SOFTWARE.
 
 # MIT Licence (česká verze - neoficiální překlad)
 
-Copyright (c) 2024 painter99
+Copyright (c) 2024 Pavel Mareš
 
 Tímto se uděluje bezplatná licence každé osobě, která získá kopii
 tohoto softwaru a souvisejících dokumentačních souborů (dále jen "Software"),
