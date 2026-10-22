@@ -3,6 +3,10 @@
 **⚠️ Upozornění: Tento projekt byl archivován.**
 **Již není aktivně udržován a materiály slouží primárně pro referenční a historické účely.**
 
+## Historická souvislost
+
+Tento repozitář zachycuje jeden z mých prvních větších experimentů se strukturovanými textovými rámci pro práci s jazykovými modely. Obsahuje tematické šablony, pravidla pro spolupráci s AI a návod, jak šablony upravovat s pomocí AI mentora. Z dnešního pohledu v něm vidím raný koncepční předstupeň některých principů, které dnes uplatňuji při tvorbě Agora Skills v repozitáři [`agora-pro-setup`](https://github.com/painter99/agora-pro-setup). Původní šablony však nebyly stejným systémem ani Skills v dnešním technickém smyslu.
+
 Vítejte v archivovaném repozitáři šablon pro efektivní komunikaci s AI asistenty. Projekt poskytuje strukturované a etické šablony pro různé způsoby využití AI.
 
 ## ⚡ Rychlý start
